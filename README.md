@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/c26742bfb56f65cde060dacb0edeb72c/tumblr_nlptn4t5Ug1relaado2_400.gif)
+![MasterHead](https://i.makeagif.com/media/2-08-2017/BfEXDC.gif)
 <h1 align="center">Hi 👋, I'm Kiran Wankhade</h1>
 <!--
 **kiranwankhade/kiranwankhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
