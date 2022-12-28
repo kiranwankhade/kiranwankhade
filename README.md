@@ -1,4 +1,4 @@
-![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif](https://img.freepik.com/premium-photo/software-engineer-coding-laptop-computer-with-javascript-virtual-screen_158043-346.jpg))
+![MasterHead](https://64.media.tumblr.com/c26742bfb56f65cde060dacb0edeb72c/tumblr_nlptn4t5Ug1relaado2_400.gif)
 <h1 align="center">Hi 👋, I'm Kiran Wankhade</h1>
 <!--
 **kiranwankhade/kiranwankhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
