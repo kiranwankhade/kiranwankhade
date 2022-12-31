@@ -10,8 +10,7 @@
   <a href="https://github.com/kiranwankhade">
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://kiranwankhade.github.io">
-  <a href="">
+  <a href="https://kiranwankhade.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Codecov&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
