@@ -79,7 +79,11 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kiranwankhade&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
   
+
+<p> <img src="https://komarev.com/ghpvc/?username=kiranwankhade&label=Profile%20views&color=0e75b6&style=flat" alt="kiranwankhade" /> </p>
+  
 </div>
+
 
 <div  align="center">
   <img width='90%' src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg" width="600" height="300"/>
