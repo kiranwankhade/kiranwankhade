@@ -34,7 +34,7 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://kiranwankhade.github.io/)
 
-- 📫 How to reach me- 📧-preetigondane21.09@gmail.com 📌[Linkedin](https://www.linkedin.com/in/kiran-wankhade-kiran-wankhade-837965182/)
+- 📫 How to reach me- 📧-kiranwankhade7738@gmail.com 📌[Linkedin](https://www.linkedin.com/in/kiran-wankhade-kiran-wankhade-837965182/)
 
 - 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1EMEVNUthn9N6BL4VRy9gAvVWpap44duz/view?usp=share_link)
 <br>
