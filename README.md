@@ -81,3 +81,6 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
   
 </div>
 
+<div  align="center">
+  <img width='90%' src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg" width="600" height="300"/>
+</div>
