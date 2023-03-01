@@ -59,6 +59,7 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 # Backend :-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white) 
 ![Node JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=express.js&logoColor=white) 
 
 
 </br>
