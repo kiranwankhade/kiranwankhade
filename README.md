@@ -25,12 +25,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" />
 
-From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding experience, passion for building applications, with proficiency in managing development projects.Hands-on experience in various programming languages. Experienced in creating apps in individual and collaborative environments.</br>
+From Maharashtra, India.Full Stack Web Developer with 1000+ hours of coding experience, passion for building applications, with proficiency in managing development projects.Hands-on experience in various programming languages. Experienced in creating apps in individual and collaborative environments.</br>
 
 
 # About Me
 
-- 🌱 I’m currently learning **MERN Stack, At Masai School**
+- 🌱 I have completed the Full stack web Development course (MERN stack).
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://kiranwankhade.github.io/)
 
@@ -41,7 +41,7 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 
 
 # 💻 Tech Stack:
-# Frontend :-
+# Frontend:-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -51,12 +51,12 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![swift](https://img.shields.io/badge/swift-black.svg?style=for-the-badge&logo=swift&logoColor=orange&color=white)
 
-# Tools :-
+# Tools:-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Vs-Code](https://img.shields.io/badge/vscode-%23E34F26.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
 
-# Backend :-
+# Backend:-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white) 
 ![Node JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=express.js&logoColor=white) 
