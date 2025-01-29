@@ -61,7 +61,7 @@ Full Stack Developer with 1 year of practical experience in designing, developin
 # Backend:-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white) 
 ![Node JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express JS](https://img.shields.io/badge/Express-%23E34F26.svg?style=for-the-badge&logo=express.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=#3ECF8E)
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
