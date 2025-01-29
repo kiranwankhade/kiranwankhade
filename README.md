@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" />
 
-Full Stack Developer with 6 months of practical experience in designing, developing, and implementing diverse applications and solutions across various programming languages.Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Full Stack Developer.</br>
+Full Stack Developer with 1 year of practical experience in designing, developing, and implementing diverse applications and solutions across various programming languages.Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Full Stack Developer.</br>
 
 
 # About Me
@@ -50,6 +50,8 @@ Full Stack Developer with 6 months of practical experience in designing, develop
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![swift](https://img.shields.io/badge/swift-black.svg?style=for-the-badge&logo=swift&logoColor=orange&color=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 # Tools:-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -60,7 +62,8 @@ Full Stack Developer with 6 months of practical experience in designing, develop
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white) 
 ![Node JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=express.js&logoColor=white) 
-
+![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=#3ECF8E)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </br>
 <hr>
