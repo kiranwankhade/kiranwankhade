@@ -57,6 +57,8 @@ Full Stack Developer with 1 year of practical experience in designing, developin
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Vs-Code](https://img.shields.io/badge/vscode-%23E34F26.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
+![Replit](https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white) 
+![StackBlitz](https://img.shields.io/badge/StackBlitz-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 # Backend:-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white) 
