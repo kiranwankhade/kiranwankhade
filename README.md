@@ -34,7 +34,7 @@ Full-Stack Developer with 2.1 years of experience in building scalable web appli
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://kiranwankhade.github.io/)
 
-- 📫 How to reach me- 📧-kiranwankhade7738@gmail.com 📌[Linkedin](https://www.linkedin.com/in/kiran-wankhade-kiran-wankhade-837965182/)
+- 📫 How to reach me- 📧-kiranwankhade7738@gmail.com 📌[Linkedin](https://www.linkedin.com/in/kiranwankhade/)
 
 - 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1N-z0jLokNRT3FRpnj8D3zFEvttrusena/view?usp=sharing)
 <br>
