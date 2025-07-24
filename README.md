@@ -25,18 +25,18 @@
 
 
 
-Full Stack Developer with 1 year of practical experience in designing, developing, and implementing diverse applications and solutions across various programming languages.Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Full Stack Developer.</br>
+Full-Stack Developer with 2.1 years of experience in building scalable web applications using ReactJS, Node.js, and MongoDB. Skilled in both frontend and backend development, with hands-on experience in CI/CD, testing, and responsive UI design. Worked with Invact Metaversity, Masai School, and Inceptive Technologies on real-world and production-grade projects. Quick learner with strong problem-solving abilities and a passion for clean, maintainable code and continuous improvement.</br>
 
 
 # About Me
 
-- 🌱 I have completed the Full stack web Development course (MERN stack).
+- 🌱 I have completed the full-stack web Development course (MERN stack).
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://kiranwankhade.github.io/)
 
 - 📫 How to reach me- 📧-kiranwankhade7738@gmail.com 📌[Linkedin](https://www.linkedin.com/in/kiran-wankhade-kiran-wankhade-837965182/)
 
-- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1EMEVNUthn9N6BL4VRy9gAvVWpap44duz/view?usp=share_link)
+- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1N-z0jLokNRT3FRpnj8D3zFEvttrusena/view?usp=sharing)
 <br>
 
 
@@ -65,7 +65,6 @@ Full Stack Developer with 1 year of practical experience in designing, developin
 ![Node JS](https://img.shields.io/badge/Node-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=#3ECF8E)
-![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </br>
 <hr>
