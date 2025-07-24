@@ -72,9 +72,9 @@ Full-Stack Developer with 2.1 years of experience in building scalable web appli
 
 
 <div align="center" >
-  <h1 align='center'>
-<img width='150' height='50' src="https://camo.githubusercontent.com/81e598418a780d07b9e23fd717200fca0f18dee49d78507f03f7eea1c1d23fbb/687474703a2f2f692e696d6775722e636f6d2f513754515948782e706e67" />
-</h1>
+<p align="center">
+  <img src="http://i.imgur.com/Q7TQYHx.png" width="150" height="50" alt="stats"/>
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=kiranwankhade&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiranwankhade&theme=vue-dark&hide_border=false)<br/><br/>
